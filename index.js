@@ -28,7 +28,7 @@ const questions = [
     {
         type: 'input',
         name: 'contributions',
-        message: 'What are your contribution guidelines?'
+        message: 'Who are your contributors?'
     },
     {
         type: 'input',
@@ -53,8 +53,9 @@ const questions = [
             'MIT',
             'Apache',
             'ISC',
-            'GNU GPLv3'
-        ]
+            'GNU GPLv3',
+            'No License'
+        ],
     }
 ];
 
