@@ -38,6 +38,8 @@
   
   Repo:  https://github.com/JonWong2020/readme-generator
   
+  Sample README template:  https://github.com/JonWong2020/readme-generator-sample
+  
   ## Questions
   Have questions about this project?  
   GitHub: https://github.com/jonwong2020  
