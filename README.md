@@ -31,10 +31,6 @@
   ## Tests
   None currently.
   
-  ## Links
-
-  Repo:  https://github.com/JonWong2020/readme-generator
-  
   ## Questions
   Have questions about this project?  
   GitHub: https://github.com/jonwong2020  
