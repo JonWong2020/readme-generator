@@ -9,6 +9,7 @@
   * [Licenses](#licenses)
   * [Contributors](#contributors)
   * [Tests](#tests)
+  * [Links](#links)
   * [Questions](#questions)
   
   ## Description
@@ -17,7 +18,9 @@
   ## Installation
   You will need VS Code to display the code for the application along with Git Bash to run the application in terminal and node.js in order to use the node command in the terminal.
   
-  A sample of the application in action can be view here:  [Demo of application](https://drive.google.com/file/d/1Ts-1WtqUCGR61qM5l8xtwQ5RQKnoLbXz/view)
+  https://user-images.githubusercontent.com/110364895/190035861-dea7fc26-0b1d-44ff-841b-290ddff130b1.mp4
+  
+  A higher quality sample of the application in action can be view here:  [Demo of application](https://drive.google.com/file/d/1Ts-1WtqUCGR61qM5l8xtwQ5RQKnoLbXz/view)
   
   ## Usage
   To create a professional README through command line prompts.
