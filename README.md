@@ -17,6 +17,8 @@
   ## Installation
   You will need VS Code to display the code for the application along with Git Bash to run the application in terminal and node.js in order to use the node command in the terminal.
   
+  A sample of the application in action can be view here:  
+  
   ## Usage
   To create a professional README through command line prompts.
   
@@ -29,7 +31,13 @@
   ## Tests
   None currently.
   
+  ## Links
+
+  Repo:  https://github.com/JonWong2020/readme-generator
+  
   ## Questions
   Have questions about this project?  
   GitHub: https://github.com/jonwong2020  
   Email: jonathannwong50@aol.com
+  
+  
